@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.title{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: beige;
+  
+}
+.inner-title{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    margin: 10px;
+    padding: 10px;
+
+}
